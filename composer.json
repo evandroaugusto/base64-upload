@@ -1,0 +1,21 @@
+{
+  "name": "evandroaugusto/base64-upload",
+  "description": "A base64 upload class to help convert a base64 string into an image file.",
+  "type": "library",
+  "version": "0.1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evandro Oliveira",
+      "email": "evandro@siriusprime.com.br"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "evandroaugusto\\Base64\\": "src"
+    }
+  }
+}
